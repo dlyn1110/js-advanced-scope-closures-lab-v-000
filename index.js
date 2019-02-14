@@ -18,7 +18,7 @@ function produceDrivingRange(blockRange) {
     }
   }
 
-  function createDriver(){
+   function createDriver(){
      let driverId = 0;
 
      return class {
